@@ -1,0 +1,4 @@
+PySimpleGUI
+pyAesCrypt
+pyperclip
+cryptocode
