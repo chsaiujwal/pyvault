@@ -14,6 +14,7 @@ Cool Password Manager written in Python
 * NSA can't crack(probably)
 * FSB can't crack(probably)
 * World's safest password manager(most probably)
+* Better than LastPass (Absolutely)
 
 
 
